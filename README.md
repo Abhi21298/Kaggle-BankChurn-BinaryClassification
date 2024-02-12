@@ -1,6 +1,6 @@
 # Kaggle-BankChurn-BinaryClassification
 
-## Kaggle Competition - January 2024 - Season 4 Episode
+## Kaggle Competition - January 2024 - Season 4 Episode 1
 
 ### This is my first ever entry into Kaggle Competition. :-) 
 ### So, this is a very naive attempt on Binary Classification with a Bank Churn Dataset.
