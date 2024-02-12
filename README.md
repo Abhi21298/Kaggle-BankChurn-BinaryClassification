@@ -29,7 +29,7 @@ The bank customer churn dataset is a commonly used dataset for predicting custom
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
 
 ### My results -
-Achieved a score of 0.87998 while the highest was around 0.91. Currently placed as 2024 (Nice touch, year and rank are the same).
+Achieved a score of 0.87998 while the highest was around 0.91
 
 ### I compared a basic Logistic regression model and a neural network (128, 32, 8, 1) with 4 layers and evaluated their performance. NN performed with 86% train and 85% test accuracy. Logistic regression provided a score of 85%
 
